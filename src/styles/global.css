@@ -1,7 +1,7 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 :root {
@@ -50,13 +50,5 @@ a {
   text-decoration: none;
 }
 
-.container {
-  height: 100vh;
-  max-width: 992px;
-  margin: 0 auto;
-  padding: 2.5rem 2rem;
 
-  display: flex;
-  flex-direction: column;
-}
 
