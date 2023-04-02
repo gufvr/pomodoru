@@ -25,11 +25,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node e NPM](https://nodejs.org/)
 
+![tecnologias](https://user-images.githubusercontent.com/107816413/229384160-adfc456a-2a66-4f5d-b3a8-1197cf6bee1c.jpg)
+
+
 ## 💻 Projeto
 
 O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhorar sua produtividade e foco. Desenvolvido durante a Next Level Week #4 da <strong>Rocketseat</strong> e nomeado na minha versão como <strong>PomoDoru!</strong>.
 
 ![page](https://user-images.githubusercontent.com/107816413/229383885-374034af-11bb-488f-a7a5-8201033df0ec.jpg)
+
 
 ## 🔖 Layout
 
