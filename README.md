@@ -32,8 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhorar sua produtividade e foco. Desenvolvido durante a Next Level Week #4 da <strong>Rocketseat</strong> e nomeado na minha versão como <strong>PomoDoru!</strong>.
 
-![page](https://user-images.githubusercontent.com/107816413/229383885-374034af-11bb-488f-a7a5-8201033df0ec.jpg)
+![newChallenge](https://user-images.githubusercontent.com/107816413/229386110-e470354f-29c8-417a-b7b9-f73d43164467.jpg)
 
+![page](https://user-images.githubusercontent.com/107816413/229386184-e6e63cb9-81cd-42fd-9631-e2883ca8291e.jpg)
 
 ## 🔖 Layout
 
