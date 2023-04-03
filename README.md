@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node e NPM](https://nodejs.org/)
 
-![tecnologias](https://user-images.githubusercontent.com/107816413/229384160-adfc456a-2a66-4f5d-b3a8-1197cf6bee1c.jpg)
+![tecnologias](https://user-images.githubusercontent.com/107816413/229405964-43139e10-97f1-4d78-a1f1-64a795442a33.jpg)
 
 
 ## 💻 Projeto
