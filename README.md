@@ -1,23 +1,23 @@
 <h1 align="center"> Move.it | PomoDoru! </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Exclusive and free event, promoted by Rocketseat for teaching WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://react.dev/)
 - [Yarn](https://yarnpkg.com/)
@@ -25,12 +25,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node e NPM](https://nodejs.org/)
 
-![tecnologias](https://user-images.githubusercontent.com/107816413/229405964-43139e10-97f1-4d78-a1f1-64a795442a33.jpg)
+![technologies](https://user-images.githubusercontent.com/107816413/229405964-43139e10-97f1-4d78-a1f1-64a795442a33.jpg)
 
 
-## 💻 Projeto
+## 💻 Project
 
-O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhorar sua produtividade e foco. Desenvolvido durante a Next Level Week #4 da <strong>Rocketseat</strong> e nomeado na minha versão como <strong>PomoDoru!</strong>.
+Move.it is an App that uses the Pomodoro technique, with the goal of improving your productivity and focus. Developed during Rocketseat's Next Level Week #4 and named in my version as PomoDoru!
 
 ![newChallenge](https://user-images.githubusercontent.com/107816413/229386110-e470354f-29c8-417a-b7b9-f73d43164467.jpg)
 
@@ -38,13 +38,13 @@ O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhor
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/M6R3YBnrGrHV7SkIlI5eMW/Move.it-1.0-(Copy)?t=xx43fsHCXwqCpQlK-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout via [THIS LINK](https://www.figma.com/file/M6R3YBnrGrHV7SkIlI5eMW/Move.it-1.0-(Copy)?t=xx43fsHCXwqCpQlK-1). You must have a [Figma](https://figma.com) account to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
-Feito com ♥ by Gustavo Favero :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Gustavo Favero :wave: [Join our community!](https://discord.gg/rocketseat)
 
